@@ -5,4 +5,5 @@
 В каталоге tests есть примеры модульных тестов на pytest.
 
 Вся логика работы в pyscenarios/base.py
+
 Примеры сценариев в pyscenarios/scenarios
