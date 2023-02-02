@@ -1,0 +1,17 @@
+.idea/
+.DS_Store
+__pycache__
+*.orig
+*.pyc
+*.pyo
+*.ipynb
+venv
+
+*.ipynb*
+
+*.log
+
+!.gitignore
+!README.md
+/testing/test.py
+/testing/tst_copy.py
