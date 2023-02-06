@@ -7,7 +7,9 @@ The tests directory has examples of pytest unit tests.
 All work logic in pyscenarios/base.py
 
 Script examples in pyscenarios/scenarios
-=======================================================================================================
+
+--
+
 Код библиотеки pyscenarios для фреймворка SBBOL, виртуального ассистента SBER.
 
 Если ее интегрировать во фреймворк https://github.com/sberdevices/smart_app_framework, то библиотека позволит программировать навыки для виртуального ассистента на чистом Python.
